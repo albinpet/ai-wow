@@ -1,0 +1,56 @@
+# AI Custom Rules for Cursor
+
+# Use these rules to guide Cursor's AI code generation
+# Place this file in your project root as .cursorrules
+
+# Code Style and Standards
+- Always use descriptive variable and function names
+- Write clear, concise comments for complex logic
+- Follow language-specific best practices and conventions
+- Prefer explicit code over clever/complex solutions
+- Include type hints for Python functions and variables
+- Use consistent indentation (2 spaces for JS/TS, 4 for Python)
+
+# AI-Assisted Development Guidelines
+- When generating code, include comprehensive error handling
+- Always suggest unit tests for new functions
+- Provide alternative implementations when asked
+- Explain complex algorithms or design patterns used
+- Suggest performance optimizations when relevant
+- Include security considerations for sensitive operations
+
+# Documentation Standards
+- Write docstrings for all functions and classes
+- Include usage examples in documentation
+- Document API endpoints with request/response formats
+- Add inline comments for business logic
+- Create README files for new modules or components
+
+# Code Generation Preferences
+- Prefer functional programming patterns where appropriate
+- Use modern language features and libraries
+- Generate code that is testable and mockable
+- Include logging for debugging and monitoring
+- Consider edge cases and input validation
+- Suggest configuration options for flexibility
+
+# Project-Specific Rules
+- Focus on AI tool integration and workflow demonstrations
+- Create educational examples that are easy to understand
+- Include step-by-step tutorials with actual commands
+- Provide both beginner and advanced variations
+- Emphasize practical, real-world use cases
+
+# Git and Version Control
+- Generate conventional commit messages
+- Suggest appropriate branch naming conventions
+- Include meaningful commit descriptions
+- Consider squashing commits for feature completion
+- Add .gitignore entries for new file types
+
+# When Asked for Help
+- Provide multiple solution approaches
+- Explain trade-offs between different implementations
+- Suggest related improvements or enhancements
+- Link to relevant documentation or resources
+- Consider the user's skill level in explanations

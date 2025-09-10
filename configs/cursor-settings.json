@@ -1,0 +1,36 @@
+{
+  "workbench.colorTheme": "GitHub Dark",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "'Fira Code', 'Cascadia Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.shell.linux": "/bin/bash",
+  "cursor.chat.model": "gpt-4",
+  "cursor.general.enableCodeActions": true,
+  "cursor.general.enableInlineCompletion": true,
+  "extensions.autoUpdate": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+    "editor.wordWrap": "on"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
+}
