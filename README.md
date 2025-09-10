@@ -6,6 +6,9 @@
 
 This repository showcases modern AI-assisted development workflows, demonstrating how to effectively integrate and use various AI tools to enhance productivity and code quality.
 
+### ⚡ Quick Start
+**Want to jump right in?** Check out our [Quick Start Guide](./QUICKSTART.md) to get up and running in 10 minutes!
+
 ### Prerequisites
 
 Before you begin, ensure you have the following tools installed:
@@ -70,6 +73,8 @@ This project demonstrates AI workflows for:
 ## 📖 Documentation
 
 For detailed guides and examples, see the [documentation](./docs/README.md).
+
+**Need help?** Check our [Troubleshooting Guide](./docs/troubleshooting.md) for common issues and solutions.
 
 ## 🤝 Contributing
 
